@@ -1,2 +1,2 @@
 # How to obtain the result!
-Ren file ""
+Run file "run.py" with all True or False set to True.
